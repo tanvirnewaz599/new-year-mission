@@ -89,6 +89,7 @@ body {
     height: 600px;
     background-repeat: no-repeat;
     margin-bottom: 120px;
+    border-radius: 16px;
 }
 
 .Welcome {
@@ -145,6 +146,7 @@ body {
     flex-shrink: 0;
     margin: 50px 140px;
     text-align: center;
+    border-radius: 16px;
 }
 
 .details {
