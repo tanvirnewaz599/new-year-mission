@@ -380,3 +380,67 @@ body {
     margin-left: 70px;
 
 }
+
+
+.banner5{
+    
+    margin: 50px 140px;
+    background-color: #FFF;
+    width: 1320px;
+    height: 1165px;
+    border-radius: 16px;
+    margin-top: 120px;
+}
+.gifts{
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+font-size: 24px;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 0;
+}
+.Awesome{
+    color: #070211;
+    font-family: 'Merriweather', serif;
+font-size: 48px;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+margin-top: 16px;
+margin-bottom: 0;
+}
+.dolor{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+    max-width: 896px;
+    margin-top: 22px;
+    margin-bottom: 0;
+}
+
+.banner5-content{
+    margin-top: 48px;
+    
+
+}
+.size-of-pics{
+    width: 424px;
+height: 450px;
+border-radius: 16px;
+background: lightgray 50% / cover no-repeat;
+}
+.row1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0;
+
+}
+.row2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+
+}
