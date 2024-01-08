@@ -139,7 +139,7 @@ body {
 
 .date {
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
-    
+
     width: 1320px;
     height: 482px;
     flex-shrink: 0;
@@ -300,6 +300,7 @@ body {
     background-size: 1320px, 229px;
     background-position: bottom;
     background-repeat: no-repeat;
+    margin-bottom: 0;
 
 
 }
@@ -382,8 +383,8 @@ body {
 }
 
 
-.banner5{
-    
+.banner5 {
+
     margin: 50px 140px;
     background-color: #FFF;
     width: 1320px;
@@ -391,56 +392,150 @@ body {
     border-radius: 16px;
     margin-top: 120px;
 }
-.gifts{
+
+.gifts {
     color: #F00;
     font-family: 'Inter', sans-serif;
-font-size: 24px;
-font-weight: 500;
-line-height: normal;
-margin-bottom: 0;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 0;
 }
-.Awesome{
+
+.Awesome {
     color: #070211;
     font-family: 'Merriweather', serif;
-font-size: 48px;
-font-weight: 900;
-line-height: normal;
-text-transform: capitalize;
-margin-top: 16px;
-margin-bottom: 0;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: 16px;
+    margin-bottom: 0;
 }
-.dolor{
+
+.dolor {
     color: rgba(7, 2, 17, 0.60);
     font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
-    line-height: 32px; /* 160% */
+    line-height: 32px;
+    /* 160% */
     max-width: 896px;
     margin-top: 22px;
     margin-bottom: 0;
 }
 
-.banner5-content{
+.banner5-content {
     margin-top: 48px;
-    
+
 
 }
-.size-of-pics{
+
+.size-of-pics {
     width: 424px;
-height: 450px;
-border-radius: 16px;
-background: lightgray 50% / cover no-repeat;
+    height: 450px;
+    border-radius: 16px;
+    background: lightgray 50% / cover no-repeat;
 }
-.row1{
+
+.row1 {
     display: flex;
     justify-content: space-between;
     margin-bottom: 0;
 
 }
-.row2{
+
+.row2 {
     display: flex;
     justify-content: space-between;
     margin-top: 25px;
+
+}
+
+.banner6 {
+    margin: 50px 140px;
+    margin-top: 120px;
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.banner6-container {
+    text-align: center;
+}
+
+.mail {
+    margin-top: 80px;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 0;
+}
+
+.Subscribe {
+    margin-top: 10px;
+    color: #070211;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 0;
+}
+
+.dolor1 {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    max-width: 896px;
+    padding-left: 210px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+
+}
+
+.input {
+
+    display: inline;
+
+}
+
+.email {
+    width: 648px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #FFF;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.sbtn {
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+
 
 }
