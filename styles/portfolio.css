@@ -187,3 +187,101 @@ body {
     gap: 10px;
     border: 0;
 }
+
+.banner3 {
+    margin: 50px 140px;
+    background-color: aqua;
+    width: 1320px;
+    height: 482px;
+    border-radius: 16px;
+    margin-top: 120px;
+    display: flex;
+
+}
+
+.best {
+
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 100px;
+    margin-right: 150px;
+
+}
+
+.soon {
+    margin-top: 10px;
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.offer-des {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    max-width: 393px;
+    padding-right: 70px;
+}
+
+.offer-collum2 {
+    width: 463px;
+    height: 463px;
+    flex-shrink: 0;
+    border-radius: 463px;
+    border: 15px solid #F00;
+   
+}
+
+.fig {
+    
+    
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 364.844px;
+    padding: 45px;
+
+
+
+
+}
+
+.offer-collum3 {
+    padding-left: 100px;
+
+}
+
+.year {
+
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 0;
+
+}
+
+.year-des {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    max-width: 276px;
+    margin-top: 10px;
+}
+
+.fig2 {
+    width: 140px;
+    height: 140px;
+    margin-top: 51px;
+    margin-bottom: 0;
+}
