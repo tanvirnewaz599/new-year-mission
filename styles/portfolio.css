@@ -139,6 +139,7 @@ body {
 
 .date {
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    
     width: 1320px;
     height: 482px;
     flex-shrink: 0;
@@ -189,6 +190,7 @@ body {
 }
 
 .banner3 {
+    margin-top: 120px;
     margin: 50px 140px;
     background-color: #FFF;
     width: 1320px;
@@ -236,12 +238,12 @@ body {
     flex-shrink: 0;
     border-radius: 463px;
     border: 15px solid #F00;
-   
+
 }
 
 .fig {
-    
-    
+
+
     width: 364.844px;
     height: 364.844px;
     border-radius: 364.844px;
@@ -286,69 +288,95 @@ body {
     margin-bottom: 0;
 }
 
-.banner4{
+.banner4 {
     margin: 50px 140px;
     margin-top: 120px;
     width: 1320px;
-    height: 1000px;
-background: aqua;
+    height: 980px;
+    background: aqua;
+    border-radius: 16px;
+
+    background-image: url("../resources/Rectangle\ 2.png");
+    background-size: 1320px, 229px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+
+
 }
-.sale-50{
+
+.sale-50 {
     text-align: center;
 }
-.what{
+
+.what {
     color: #070211;
     font-family: 'Inter', sans-serif;
-font-size: 24px;
-font-weight: 500;
+    font-size: 24px;
+    font-weight: 500;
 }
-.sp1{
+
+.sp1 {
     color: #F00;
-text-align: center;
-font-family: 'Merriweather', serif;
-font-size: 72px;
-font-weight: 900;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 72px;
+    font-weight: 900;
 }
-.holiday{
+
+.holiday {
     margin-top: 10px;
     color: #070211;
     font-family: 'Merriweather', serif;
-font-size: 72px;
-font-weight: 900;
-margin-bottom: 10px;
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 10px;
 }
-.sale-des{
-   
+
+.sale-des {
+
     color: rgba(7, 2, 17, 0.60);
-text-align: center;
-font-family: 'Inter', sans-serif;
-font-size: 20px;
-font-weight: 500;
-line-height: 32px; /* 160% */
-max-width:  1068px;
-padding-left: 150px;
-padding-right: 150px;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    /* 160% */
+    max-width: 1068px;
+    padding-left: 150px;
+    padding-right: 150px;
 
 }
 
-
-.container{
-    
-    
-    background-image: url("../resources/Rectangle\ 1.png") ;
-    background-size: 433px 429px;
+.containerU1 {
+    margin-top: 50.5px;
+    background-image: url("../resources/Rectangle\ 1.png");
+    background-position: top right;
     background-repeat: no-repeat;
-    background-position: right;
+
+
 }
 
-.grp44{
-    width: 317px;
-    height: 317px;
+.container {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.grp44 {
+    width: 250px;
+    height: 250px;
     flex-shrink: 0;
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-left: 470px;
-    
-    
+    padding-right: 308px;
+    padding-top: 125px;
+    fill: #F00;
+
+}
+
+.grp75 {
+    height: 600px;
+    width: 700px;
+    margin-top: 50px;
+    margin-left: 70px;
 
 }
