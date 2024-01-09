@@ -42,7 +42,7 @@ body {
     text-align: center;
     width: 1320px;
     height: 860px;
-    background: aqua;
+    background: #FFF;
     border-radius: 16px;
 }
 
@@ -548,4 +548,100 @@ body {
     border: 0;
 
 
+}
+
+.footerContainer {
+    margin-top: 120px;
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+    background: black;
+}
+
+.footerContainer {
+    padding-top: 120px;
+
+
+}
+
+.f-text-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.street {
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+}
+
+.cll-logo {
+    width: 24px;
+    height: 24px;
+}
+
+.call-num {
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+    margin-bottom: 0;
+
+}
+
+.website {
+    margin-top: 0;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    ;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+}
+
+.hline {
+    margin-top: 50px;
+    width: 1100px;
+    height: o.5px;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.manylogo {
+    margin-top: 48px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+
+}
+
+.fb {
+    padding-right: 15px;
+}
+
+.lastone {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.reserved {
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.uns {
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
 }
